@@ -1,0 +1,40 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Environment variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build files
+dist/
+build/
+
+# PyTorch / ML checkpoints
+*.pt
+*.pth
+
+# ChromaDB / vector DB persistence
+chroma_db/
+persist_directory/
+
+# Temporary files
+temp/
+tmp/

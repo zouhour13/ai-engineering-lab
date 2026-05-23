@@ -1,0 +1,10 @@
+Artificial intelligence is transforming healthcare.
+AI is changing modern medicine.
+Machine learning improves medical diagnosis.
+Deep learning is used in computer vision.
+Neural networks process large amounts of data.
+Natural language processing enables chatbots.
+Vector databases store embeddings efficiently.
+RAG systems combine retrieval and generation.
+Semantic search understands meaning instead of keywords.
+Embeddings represent text as numerical vectors.
